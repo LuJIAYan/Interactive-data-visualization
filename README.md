@@ -8,7 +8,7 @@
     </tr>
     <tr>
         <td><b>小组协作式数据交互可视化项目</b></td>
-        <td> 网络与新媒体专业</td>   
+        <td> luckin coffee电商数据分析</td>   
     </tr>
 	<tr>
         <td><b>完成情况</b></td>
@@ -47,7 +47,8 @@
 
 ## 数据说明
 ### [文件列表](https://github.com/LuJIAYan/Interactive-data-visualization/tree/master/data)
-
+* 高德api代码
+* 店铺经纬分布csv数据
 
 ### 数据来源
 * 地图api调用

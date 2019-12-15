@@ -4,7 +4,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:951px;
+  width:930px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -36,8 +36,8 @@
 #u0 {
   border-width:0px;
   position:absolute;
-  left:146px;
-  top:170px;
+  left:110px;
+  top:167px;
   width:615px;
   height:42px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -76,8 +76,8 @@
 #u1 {
   border-width:0px;
   position:absolute;
-  left:895px;
-  top:563px;
+  left:833px;
+  top:500px;
   width:56px;
   height:22px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
@@ -98,7 +98,7 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:444px;
+  width:642px;
   height:55px;
   background:inherit;
   background-color:rgba(255, 255, 255, 0);
@@ -116,9 +116,9 @@
 #u2 {
   border-width:0px;
   position:absolute;
-  left:451px;
-  top:276px;
-  width:444px;
+  left:288px;
+  top:278px;
+  width:642px;
   height:55px;
   font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
@@ -131,6 +131,6 @@
   position:absolute;
   left:0px;
   top:0px;
-  width:444px;
+  width:642px;
   white-space:nowrap;
 }

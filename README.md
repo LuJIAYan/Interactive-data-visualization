@@ -49,6 +49,7 @@ luckin coffee（瑞幸咖啡），由原神州优车集团COO钱治亚创建的�
 ### [文件列表](https://github.com/LuJIAYan/Interactive-data-visualization/tree/master/data)
 * 高德api代码
 * 店铺经纬分布csv数据
+* 瑞幸和星巴克点评数据
 
 ### 数据来源
 * 地图api调用
